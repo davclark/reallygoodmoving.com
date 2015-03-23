@@ -1,13 +1,13 @@
 # Site settings
 title: Clean Blog
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
+email: davclark@gmail.com
 description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+# baseurl: "/startbootstrap-clean-blog-jekyll"
+url: "http://reallygoodmoving.com"
+twitter_username: davclark
+github_username: davclark
+facebook_username: davclark
 
 # Build settings
 markdown: kramdown
