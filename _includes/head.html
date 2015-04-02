@@ -8,7 +8,7 @@
     <!-- This differs from title below, in that it only includes the site.title
          if there is no page.title (ideally, this is never). -->
     <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-    <meta property="og:image" content="{% if page.header-img %}/{{ page.header-img }}{% else %}/img/tent.jpeg{% endif %}">
+    <meta property="og:image" content="{% if page.header-img %}{{ site.baseurl | prepend: site.url }}/{{ page.header-img }}{% else %}/img/tent.jpeg{% endif %}">
 
     <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
 
