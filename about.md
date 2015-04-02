@@ -2,7 +2,7 @@
 layout: page
 title: About
 description: Facilitating Contact Improv and Movement Instruction
-header-img: img/dav-madoka-jumping.jpg
+header-img: img/dav-madoka-jumping.jpeg
 ---
 
 Hi! I'm Dav Clark, and I recently took over stewardship of the Saturday pre-Jam

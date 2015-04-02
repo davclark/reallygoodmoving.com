@@ -1,8 +1,8 @@
 ---
-layout:     post
+layout:     class
 title:      Explorations around center
 subtitle:   Between too little and too much, we find just right
-author:     Dav Clark
+teacher:    Dav Clark
 header-img: img/mad-flying.jpeg
 ---
 
