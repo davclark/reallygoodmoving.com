@@ -1,7 +1,7 @@
 ---
 layout:     class
 title:      Class with Stu
-subtitle:   Watch this space for more information
+subtitle:   Defining the undefinable
 teacher:    Stu Phillips
 header-img: img/waiting.jpeg
 ---
@@ -9,5 +9,5 @@ Stuart Phillips teaches the remaining Saturday classes in April. Note that these
 
 Defining the undefinable, how we approach dance, how we approach life, how we
 approach connection, how we approach each other, the process we undertake is so
-essential to our well being, let's explore this
-class: http://www.stulip6.wix.com/stulips
+essential to our well being, let's explore this in
+class: <http://www.stulip6.wix.com/stulips>
