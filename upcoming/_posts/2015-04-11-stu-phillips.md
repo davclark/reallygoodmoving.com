@@ -5,6 +5,9 @@ subtitle:   Watch this space for more information
 teacher:    Stu Phillips
 header-img: img/waiting.jpeg
 ---
+Stuart Phillips teaches the remaining Saturday classes in April. Note that these classes are $15 (no sliding scale).
 
-For the remainder of April, we'll have three classes by Stu Phillips. Please
-check back here for more information next week.
+Defining the undefinable, how we approach dance, how we approach life, how we
+approach connection, how we approach each other, the process we undertake is so
+essential to our well being, let's explore this
+class: http://www.stulip6.wix.com/stulips
