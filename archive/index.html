@@ -4,10 +4,8 @@ layout: page
 description: "Contact Improv Dance Classes (and more) in Berkeley"
 ---
 
-{% comment %}
-For some reason paginator.posts doesn't see anything :(
-{% endcomment %}
-{% for post in site.posts %}
+{% for post in paginator.posts %}
+{{ DIVIDER }}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">{{ post.title }}</h2>
@@ -22,7 +20,7 @@ For some reason paginator.posts doesn't see anything :(
                          {% else %}Still looking!
                          {% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
-<hr>
+{% assign DIVIDER = "<hr>" %}
 {% endfor %}
 
 <!-- Pager -->
