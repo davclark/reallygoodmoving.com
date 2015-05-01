@@ -15,5 +15,5 @@ floor for a sounding board. We'll continue with some ideas from Feldenkrais to
 be sure we've got a good base of support. Then, we'll progress into some little,
 easy rhythms that can transition into lifts.
 
-If you have any questions, please find me using the twitter or facebook buttons
+If you have any questions, please find Dav using the twitter or facebook buttons
 below!
