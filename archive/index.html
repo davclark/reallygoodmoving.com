@@ -1,12 +1,12 @@
 ---
 title: Archive
 layout: page
-description: "Contact Improv Dance Classes (and more) in Berkeley"
+description: "A history of Contact Improv, Feldenkrais, and more in Berkeley and Baltimore"
 pagination:
     enabled: true
 ---
-
-{% for post in paginator.posts %}
+<!-- for post in paginator.posts -->
+{% for post in site.posts %}
 {{ DIVIDER }}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
