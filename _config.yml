@@ -17,5 +17,6 @@ permalink: /:year/:month/:day/:title.html
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 gems: [jekyll-paginate-v2]
 pagination:
+  enabled: true
   per_page: 5
   permalink: /archive/page:num
