@@ -7,8 +7,8 @@ header-img: "img/post-bg-02.jpg"
 ---
 
 This is a training sponsored by the Eastern Region of the Feldenkrais Guild of
-North America *for Feldenkrais teachers only*. It will count as a full day of
-training for continuing accredidation purposes.
+North America *for Feldenkrais teachers only*. Don't forget to incorporate it
+into your own competency plan!
 
 > 10am-5pm  
 > [Holistic Massage Training Institute](http://www.massagetrainingbaltimore.com)  
