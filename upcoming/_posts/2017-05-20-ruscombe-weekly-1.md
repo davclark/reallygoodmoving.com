@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Weekly Mindful Movement Class (1/6)"
-author:     Dav Clark
+author:     Dav Clark and Karen Shavin
 header-img: "img/post-bg-02.jpg"
 ---
 

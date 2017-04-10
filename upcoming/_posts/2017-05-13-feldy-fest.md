@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Free Feldenkrais Festival"
-author:     Dav Clark
+author:     Dav Clark and Karen Shavin
 header-img: "img/post-bg-02.jpg"
 ---
 
