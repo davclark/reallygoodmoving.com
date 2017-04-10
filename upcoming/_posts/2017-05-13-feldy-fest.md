@@ -20,7 +20,7 @@ Please help spread the word on
 [Facebook](https://www.facebook.com/events/137762683421668/) and
 [Twitter](http://www.twitter.com/home?status=I+am+attending+https://www.eventbrite.com/e/ease-grace-and-power-a-free-movement-festival-tickets-33309543742?ref=estw).
 
-Please join us for one or all four of our free "Awareness Through Movment"
+Please join us for one or all four of our free "Awareness Through Movement"
 Lessons (tickets available for a guaranteed place):
 - Noon: a chair-based lesson
 - 1:15: a gentle lesson lying on mats
