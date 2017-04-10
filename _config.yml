@@ -2,12 +2,12 @@
 title: Really Good Moving
 header-img: img/tent.jpeg
 email: davclark@gmail.com
-description: "Information about the Berkeley Saturday pre-Jam Contact Improv class (1:30-3:30 at Studio8) and other movement hijinx!"
+description: "Information about Feldenkrais and other movement hijinx in Baltimore!"
 # baseurl: "/startbootstrap-clean-blog-jekyll"
 url: "http://reallygoodmoving.com"
-twitter_username: davclark
+twitter_username: RGMoving
 # github_username: davclark
-facebook_username: groups/saturdayBerkeleyJam
+facebook_username: ReallyGoodMoving
 
 # Build settings
 markdown: kramdown
@@ -21,5 +21,6 @@ pagination:
   enabled: true
   per_page: 5
   permalink: /archive/page:num
+  sort_reverse: true
 
 future: true
