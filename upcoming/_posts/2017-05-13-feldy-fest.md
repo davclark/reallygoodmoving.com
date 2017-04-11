@@ -1,16 +1,21 @@
 ---
 layout:     class
-title:      "Free Feldenkrais Festival"
+title:      "Ease, Power, and Grace – a Free Movement Festival"
 author:     Dav Clark and Karen Shavin
 header-img: "img/post-bg-02.jpg"
 ---
+
+<a class="btn btn-default"
+href="https://www.eventbrite.com/e/ease-grace-and-power-a-free-movement-festival-tickets-33309543742?aff=RGMsite">
+Free tickets at Eventbrite</a>
 
 This free event is open to all members of the public interested in moving with
 greater ease, less discomfort, and increased strength and beauty! It is
 co-organized by Dav Clark and Karen Shavin.
 
-Reserve your spot [on Eventbrite](https://www.eventbrite.com/e/ease-grace-and-power-a-free-movement-festival-tickets-33309543742?aff=RGMsite),
-though overflow activities will be provided outdoors, weather permitting.
+Please reserve your spot
+[on Eventbrite](https://www.eventbrite.com/e/ease-grace-and-power-a-free-movement-festival-tickets-33309543742?aff=RGMsite).
+Overflow activities will be provided outdoors, weather permitting.
 
 > Quick details:  
 > noon-5pm, Saturday May 13, 2017  
