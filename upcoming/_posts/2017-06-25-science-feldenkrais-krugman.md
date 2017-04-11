@@ -2,7 +2,7 @@
 layout:     class
 title:      "Weaving science, experience, and Feldenkrais: lessons from Michael Krugman's work"
 date:       2017-06-25 10:00:00
-author:     "Dav Clark"
+teacher:     Dav Clark
 header-img: "img/post-bg-02.jpg"
 ---
 

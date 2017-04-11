@@ -1,8 +1,8 @@
 ---
 layout:     class
 title:      "Ease, Power, and Grace – a Free Movement Festival"
-author:     Dav Clark and Karen Shavin
-header-img: "img/post-bg-02.jpg"
+teacher:     Dav Clark and Karen Shavin
+header-img: "img/ATM_13_web.jpg"
 ---
 
 <a class="btn btn-default"
@@ -40,3 +40,5 @@ This event is part of #InternationalFeldenkraisWeek, a coordinated Feldenkrais
 Festival, with sister events in DC and Frederick. Please be in touch if you're
 interested in participating, either as a teacher or in a supporting role. We
 will distribute promotional materials provided by area teachers.
+
+Photo by [Rosalie O'Connor](http://www.rosalieoconnor.com).
