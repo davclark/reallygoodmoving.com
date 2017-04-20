@@ -3,7 +3,6 @@ title: Really Good Moving
 header-img: img/tent.jpeg
 email: davclark@gmail.com
 description: "Information about Feldenkrais and other movement hijinx in Baltimore!"
-# baseurl: "/startbootstrap-clean-blog-jekyll"
 url: "http://reallygoodmoving.com"
 twitter_username: RGMoving
 # github_username: davclark
@@ -23,4 +22,8 @@ pagination:
   permalink: /archive/page:num
   sort_reverse: true
 
+# Show posts with dates in the future
 future: true
+
+# We keep heavy files here
+keep_files: ["media"]
